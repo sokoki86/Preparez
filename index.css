@@ -1,0 +1,22 @@
+body {
+    background-color: #7e9c84;
+}
+
+h1 {
+    background-color: #E4C5AF;
+    text-align: center;
+    color: #074F57;
+    font-size: 40px;  
+    margin: 30px 300px 0px ; 
+}
+
+.login {
+    text-align: center;
+    background-color: #E4C5AF;
+    padding: 50px;
+    margin: 0px 300px;
+    border-width: 10px;
+    border-color:#074F57; 
+    color:#074F57;
+    font-size: 20px;
+}

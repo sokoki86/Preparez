@@ -1,0 +1,42 @@
+body {
+    background-color: #74A57F;
+    text-align: center;
+    color: #074F57;
+    font-size: 40px;  
+    margin: 30px 300px 0px ; 
+}
+
+.button {
+    font-size: 30px;
+    background-color: #E4C5AF;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #074F57;
+    border-radius: 10%;
+}
+
+.recipelist {
+    background-color: #E4C5AF;
+    border-width: 10px 10px;
+    border-color: #074F57;
+    border-style: solid;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 20%;
+
+}
+
+.textbox {
+    height: 30px;
+    width: 200px;
+    border: 10 px;
+    border-style: solid;
+    border-color: #074F57;
+    background-color: #E4C5AF;
+}
+
+p {
+    text-align: left;
+    font-size: 20px;
+}
+

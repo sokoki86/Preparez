@@ -1,0 +1,38 @@
+body {
+    background-color: #74A57F;
+    text-align: center;
+    color: #074F57;
+    font-size: 40px;  
+    margin: 30px 300px 0px ; 
+}
+
+
+form {
+    margin: 0px;
+    border-style: solid;
+    border-width: 10px;
+    border-color:  #074F57;
+}
+
+
+textarea {
+    margin: 0px;
+    width: 348px;
+    height: 197px;
+    font-size: 20px;
+
+}
+.button {
+    font-size: 30px;
+    background-color: #E4C5AF;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #074F57;
+    border-radius: 10%;
+    margin-bottom: 10px;
+}
+
+.textbox {
+    height: 20px;
+    width: 300px;
+}
